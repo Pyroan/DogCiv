@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
-// HERES' TEH PLOT TWIST: THIS DOES NOTHING.
-// @Author Evan
-public class PlotTwist : MonoBehaviour {
+/**
+ * A cell in the grid
+ * Author: Evan
+ */
+public class HexCell : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
